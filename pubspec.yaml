@@ -19,7 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ncmb: ^0.1.1
+  ncmb:
+    path: ../ncmb-dart/
   flutter_dotenv: ^2.0.1
   html: ^0.14.0+3
   flutter_html: ^0.11.1
