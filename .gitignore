@@ -38,3 +38,5 @@ lib/generated_plugin_registrant.dart
 .env
 ios
 android/
+assets/.env
+.DS_Store

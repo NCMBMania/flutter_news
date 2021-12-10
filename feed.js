@@ -1,10 +1,9 @@
 // ライブラリの読み込み
 const request = require('superagent');
 const NCMB = require('ncmb');
-
 // 定数を定義
-const applicationKey = '1f394bd4d2a0a80a45f0c5a86fea448b6b36d5a795ad2ce90ddb6ff7ad136fb2';
-const clientKey = 'cdc44afd241a213a917f35d58344672ad60e72666bbbd7aa44c82172ea4fa398';
+const applicationKey = '9170ffcb91da1bbe0eff808a967e12ce081ae9e3262ad3e5c3cac0d9e54ad941';
+const clientKey = '9e5014cd2d76a73b4596deffdc6ec4028cfc1373529325f8e71b7a6ed553157d';
 
 // NCMBの準備
 const ncmb = new NCMB(applicationKey, clientKey);
